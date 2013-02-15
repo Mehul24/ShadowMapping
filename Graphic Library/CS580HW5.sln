@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CS580HW5", "CS580HW5.vcxproj", "{B0503652-1401-2D28-DFD4-E1D210D15BDB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CS580HW5", "CS580HW5.vcxproj", "{9D9CDA84-6A04-1A44-7632-9E4807E0DDFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B0503652-1401-2D28-DFD4-E1D210D15BDB}.Debug|Win32.ActiveCfg = Debug|Win32
-		{B0503652-1401-2D28-DFD4-E1D210D15BDB}.Debug|Win32.Build.0 = Debug|Win32
-		{B0503652-1401-2D28-DFD4-E1D210D15BDB}.Release|Win32.ActiveCfg = Release|Win32
-		{B0503652-1401-2D28-DFD4-E1D210D15BDB}.Release|Win32.Build.0 = Release|Win32
+		{9D9CDA84-6A04-1A44-7632-9E4807E0DDFA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9D9CDA84-6A04-1A44-7632-9E4807E0DDFA}.Debug|Win32.Build.0 = Debug|Win32
+		{9D9CDA84-6A04-1A44-7632-9E4807E0DDFA}.Release|Win32.ActiveCfg = Release|Win32
+		{9D9CDA84-6A04-1A44-7632-9E4807E0DDFA}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
